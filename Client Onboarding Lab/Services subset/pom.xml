@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+        <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
         <artifactId>clientOnboardingLab</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+    <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
     <artifactId>servicesSubset</artifactId>
     <version>LATEST-SNAPSHOT</version>
     
@@ -38,7 +38,7 @@
 
 <dependencies>
         <dependency>
-            <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+            <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
             <artifactId>data</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>

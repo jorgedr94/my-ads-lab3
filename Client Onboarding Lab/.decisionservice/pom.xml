@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+        <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
         <artifactId>clientOnboardingLab</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
@@ -12,27 +12,27 @@
 
     <dependencies>
         <dependency>
-            <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+            <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
             <artifactId>data</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+            <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
             <artifactId>feeAndServices</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+            <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
             <artifactId>machineLearningScoreboard</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+            <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
             <artifactId>scoreboard</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+            <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
             <artifactId>servicesSubset</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
@@ -100,6 +100,7 @@
 
 
 
+
 <build>
         <resources>
             <resource>
@@ -125,7 +126,7 @@
                         <configuration>
                             <artifactItems>
                                 <artifactItem>
-                                    <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+                                    <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
                                     <artifactId>data</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -134,7 +135,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+                                    <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
                                     <artifactId>feeAndServices</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -143,7 +144,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+                                    <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
                                     <artifactId>machineLearningScoreboard</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -152,7 +153,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+                                    <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
                                     <artifactId>scoreboard</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -161,7 +162,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4badmin.testxchangedecisionproject.client_onboarding_lab</groupId>
+                                    <groupId>cp4badmin.myuser_client_onboarding.client_onboarding_lab</groupId>
                                     <artifactId>servicesSubset</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>

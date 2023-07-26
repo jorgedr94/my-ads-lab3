@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="cp4badmin.testxchangedecisionproject.client_onboarding_lab:machineLearningScoreboard" ruleAppVersion="LATEST-SNAPSHOT" packageName="cp4badmin.clientonboardingtechxchange.client_onboarding_lab.machinelearningscoreboard" managingXom="true">
+<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="cp4badmin.myuser_client_onboarding.client_onboarding_lab:machineLearningScoreboard" ruleAppVersion="LATEST-SNAPSHOT" packageName="cp4badmin.clientonboardingtechxchange.client_onboarding_lab.machinelearningscoreboard" managingXom="true">
   <name>Machine-learning-scoreboard</name>
   <uuid>6867db23-6740-44f2-bd8b-3a0637957503</uuid>
   <locales>en_US</locales>
